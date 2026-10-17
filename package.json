@@ -1,3 +1,4 @@
+
 {
   "name": "anonymous-chat-bot",
   "version": "0.2.0",
@@ -18,6 +19,7 @@
     "colors": "^1.4.0",
     "dotenv": "^16.4.7",
     "quick.db": "^9.1.7",
-    "telegraf": "^4.16.3"
+    "telegraf": "^4.16.3",
+    "write-file-atomic": "^5.0.1"
   }
 }
